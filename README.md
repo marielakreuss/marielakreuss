@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mariela 👋</h1>
 
-<p align="center"><b>Law student ⚖️ &nbsp;·&nbsp; Vibe coder in my free time ✨</b></p>
+<p align="center"><b>Law student ⚖️ &nbsp;·&nbsp; Vibe coding in my free time ✨</b></p>
 
 I'm studying law in Bavaria, preparing for my First State Exam. When I'm not
 buried in casebooks, I love building small tools that make my studies and my
