@@ -8,7 +8,7 @@ everyday life easier.
 
 I **vibe-code**: I don't have a computer-science background — I describe what I
 want in plain language and shape it together with AI until it works. Everything
-below came to life that way, and I'm quite proud of that. 💛
+below came to life that way...
 
 ### 🛠️ Projects on GitHub
 
