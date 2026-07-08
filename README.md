@@ -25,7 +25,6 @@ below came to life that way, and I'm quite proud of that. 💛
   into **Anki**.
 - 📝 **Weekly Klausur check** — my weekly exam-review routine, built on the
   *Klotzkette* law-study skills, to track and analyse my practice exams over time.
-- 🧊 **KühlApp** — a little fridge-inventory web app for home.
 
 ### 🧰 Tools I reach for
 
@@ -39,6 +38,5 @@ below came to life that way, and I'm quite proud of that. 💛
 ### 📫 Say hi
 
 <!-- LinkedIn: replace YOUR-LINKEDIN once confirmed -->
-✉️ [marielakreuss@icloud.com](mailto:marielakreuss@icloud.com)
 
 <p align="center"><sub>Studying law, building with AI — one small project at a time. 💛</sub></p>
