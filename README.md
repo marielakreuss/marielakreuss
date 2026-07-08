@@ -37,9 +37,3 @@ below came to life that way...
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Anki](https://img.shields.io/badge/Anki-0A9EDC?style=flat&logo=anki&logoColor=white)
 
-### 📫 Say hi
-
-<!-- LinkedIn: replace YOUR-LINKEDIN once confirmed -->
-✉️ [marielakreuss@icloud.com](mailto:marielakreuss@icloud.com)
-
-<p align="center"><sub>Studying law, building with AI — one small project at a time. 💛</sub></p>
