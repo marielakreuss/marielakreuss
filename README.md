@@ -3,8 +3,8 @@
 <p align="center"><b>Law student ⚖️ &nbsp;·&nbsp; Vibe coding in my free time ✨</b></p>
 
 I'm studying law in Bavaria, preparing for my First State Exam. When I'm not
-buried in casebooks, I love building small tools that make my studies and my
-everyday life easier.
+buried in casebooks, I build small tools that make my studies and my
+everyday life easier :)
 
 I **vibe-code**: I don't have a computer-science background — I describe what I
 want in plain language and shape it together with AI until it works. Everything
