@@ -13,7 +13,8 @@ below came to life that way, and I'm quite proud of that. 💛
 ### 🛠️ Projects on GitHub
 
 - 📚 [**lernplan**](https://github.com/marielakreuss/lernplan) — the structure and
-  materials behind my study plan for the **2027 State Exam**.
+  materials behind my study plan for the **2027 State Exam**, keeping my
+  **Notion** workspace and my **Anki** decks in sync.
 
 ### 🌍 Projects beyond GitHub
 
@@ -24,7 +25,8 @@ below came to life that way, and I'm quite proud of that. 💛
   decisions and definitions into flashcards in my personal style, ready to drop
   into **Anki**.
 - 📝 **Weekly Klausur check** — my weekly exam-review routine, built on the
-  *Klotzkette* law-study skills, to track and analyse my practice exams over time.
+  *Klotzkette* law-study skills — every practice exam gets tracked and
+  analysed in **Notion**.
 
 ### 🧰 Tools I reach for
 
@@ -38,5 +40,6 @@ below came to life that way, and I'm quite proud of that. 💛
 ### 📫 Say hi
 
 <!-- LinkedIn: replace YOUR-LINKEDIN once confirmed -->
+✉️ [marielakreuss@icloud.com](mailto:marielakreuss@icloud.com)
 
 <p align="center"><sub>Studying law, building with AI — one small project at a time. 💛</sub></p>
